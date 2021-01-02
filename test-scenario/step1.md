@@ -25,6 +25,7 @@ of the `index.json` file.
 ]
 </pre>
 
+Test
 Files open in the editor window are updated as you make changes in the editor.
 If the files do not already exist, the tabs will still open for them, but they
 will not be created until you have updated the content in the editor window.
