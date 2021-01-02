@@ -1,45 +1,30 @@
 {
-  "title": "test",
-  "description": "test",
-  "difficulty": "Beginner",
-  "time": "5",
+  "noindex": true,
+  "title": "Scenario with Editor Terminal UI",
+  "description": "Katacoda Scenario Example",
   "details": {
-    "steps": [
-      {
-        "title": "Step 1",
-        "text": "step1.md"
-      },
-      {
-        "title": "Step 2",
-        "text": "step2.md"
-      },
-      {
-        "title": "Step 3",
-        "text": "step3.md"
-      },
-      {
-        "title": "Step 4",
-        "text": "step4.md"
-      },
-      {
-        "title": "Step 5",
-        "text": "step5.md"
+      "steps": [
+          {
+              "text": "step1.md",
+              "code": "setup.sh"
+          }
+      ],
+      "intro": {
+          "text": "intro.md",
+          "credits": ""
       }
-    ],
-    "intro": {
-      "text": "intro.md"
-    },
-    "finish": {
-      "text": "finish.md"
-    }
-  },
-  "environment": {
-    "uilayout": "editor-terminal"
-  },
-  "backend": {
-    "imageid": "python:3.6"
   },
   "files": [
-    "test.py"
-  ]
+      "app.js", "index.js"
+  ],
+  "environment": {
+      "hidefinish": true,
+      "hideHiddenFiles": true,
+      "uilayout": "editor-terminal",
+      "uisettings": "javascript",
+      "uieditorpath": "/root/example"
+  },
+  "backend": {
+      "imageid": "nodejs:12"
+  }
 }
