@@ -24,6 +24,6 @@
     "imageid": "ubuntu1804"
   },
   "files": [
-    "test.py", "requirements.txt", "chat.py", "intents.json"
+    "hello.py"
   ]
 }
