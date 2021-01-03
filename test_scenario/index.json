@@ -6,8 +6,16 @@
   "details": {
     "steps": [
       {
-        "title": "Step 1",
+        "title": "Set everything up",
         "text": "step1.md"
+      },
+      {
+        "title": "Train",
+        "text": "step2.md"
+      },
+      {
+        "title": "Chat",
+        "text": "step3.md"
       }
     ],
     "intro": {
