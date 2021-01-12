@@ -13,3 +13,5 @@ Enter the folder
 
 Install the requirements
 `pip3 install -r requirements.txt`{{execute}}
+
+ <img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600"> 
