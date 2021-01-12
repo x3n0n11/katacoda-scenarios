@@ -14,4 +14,8 @@ Enter the folder
 Install the requirements
 `pip3 install -r requirements.txt`{{execute}}
 
- <img src="https://images.app.goo.gl/hvvssfSBzVvgMRMx8" alt="Girl in a jacket" width="500" height="600"> 
+<pre>
+![Katacoda Logo](./assets/logo-text-with-head.png)
+</pre>
+
+![Katacoda Logo](./assets/logo-text-with-head.png)
