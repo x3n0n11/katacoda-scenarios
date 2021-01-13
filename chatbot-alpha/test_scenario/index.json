@@ -1,6 +1,6 @@
 {
-  "title": "Chatbot prototype",
-  "description": "AI chatbot prototype",
+  "title": "Chatbot prototype - Example",
+  "description": "This scenario contains an example of a chatbot that you can interact with.",
   "difficulty": "Beginner",
   "time": "10",
   "details": {
@@ -16,10 +16,6 @@
       {
         "title": "Chat",
         "text": "step3.md"
-      },
-      {
-        "title": "Chat",
-        "text": "step4.md"
       }
     ],
     "intro": {
@@ -36,6 +32,5 @@
     "imageid": "ubuntu:1804"
   },
   "files": [
-    "hello.py"
   ]
 }
