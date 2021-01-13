@@ -1,5 +1,12 @@
 {
   "title": "Chatbot Alpha",
   "description": "Chatbot Alpha",
-  "courses": []
+  "courses": [
+    {
+      "title": "Test",
+      "description": "test",
+      "pathway_id": "test_scenario",
+      "course_id": "test"
+    }
+  ]
 }
