@@ -16,10 +16,10 @@
 <pre>You can switch between the terminals by clicking on either of the tabs, as shown in the picture. </pre>
 
 <pre>
-![Terminals ](./assets/terminals.png)
+![Terminals ](../assets/terminals.png)
 </pre>
 
-![Terminals ](./assets/terminals.png)
+![Terminals ](../assets/terminals.png)
 
 <pre>In one terminal you can run this command...</pre>
 
@@ -33,8 +33,8 @@
 <pre>After you are done, click on the link shown, and download chatbot.tar.gz file from there. If you are stuck, here's an image to help you find the link :)</pre>
 
 <pre>
-![Address ](./assets/ip_pen.png)
+![Address ](../assets/ip_pen.png)
 </pre>
 
-![Address ](./assets/ip_pen.png)
+![Address ](../assets/ip_pen.png)
 
