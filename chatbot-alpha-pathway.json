@@ -3,7 +3,7 @@
   "description": "Chatbot Alpha",
   "courses": [
     {
-      "course_id": "example_scenario",
+      "course_id": "test_scenario",
       "title": "Chatbot prototype",
       "description": "AI chatbot prototype"
     }
