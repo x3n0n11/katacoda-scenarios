@@ -5,8 +5,8 @@
     {
       "title": "Test",
       "description": "test",
-      "pathway_id": "test_scenario",
-      "course_id": "test"
+      "pathway_id": "./test_scenario",
+      "course_id": "Tes"
     }
   ]
 }
