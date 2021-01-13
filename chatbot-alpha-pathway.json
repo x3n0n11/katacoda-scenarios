@@ -5,7 +5,7 @@
     {
       "title": "Test",
       "description": "test",
-      "pathway_id": "./test_scenario",
+      "pathway_id": "chatbot-alpha/test_scenario",
       "course_id": "Tes"
     }
   ]
