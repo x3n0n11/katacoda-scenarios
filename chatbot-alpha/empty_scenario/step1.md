@@ -1,21 +1,14 @@
-This is a prototype for AI chatbot. 
-
 ## Set up environment
 
-Katacoda has integration to automatically execute the commands for the terminal.
+<pre>Let's repeat some of those steps that you saw earlier. Same as before, you can just follow along by clicking the text in black boxes :) 
+First, we download the code. </pre>
 
-Use the following actions to set up the environment
+`git clone https://github.com/x3n0n11/nobel_chatbot.git`{{execute}}
 
-`git clone https://github.com/x3n0n11/katacoda_chatbot.git`{{execute}}
+<pre> Then, we enter the folder.</pre>
 
-Enter the folder
-`cd katacoda_chatbot`{{execute}}
+`cd nobel_chatbot`{{execute}}
 
-Install the requirements
+<pre>And finally, we install those requirements. It's going to take some time :)</pre>
+
 `pip3 install -r requirements.txt`{{execute}}
-
-<pre>
-![Katacoda Logo](./assets/logo-text-with-head.png)
-</pre>
-
-![Katacoda Logo](./assets/logo-text-with-head.png)
