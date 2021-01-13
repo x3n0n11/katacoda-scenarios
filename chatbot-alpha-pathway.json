@@ -6,6 +6,16 @@
       "course_id": "test_scenario",
       "title": "Chatbot prototype",
       "description": "AI chatbot prototype"
+    },
+    {
+      "course_id": "empty_scenario",
+      "title": "Chatbot prototype - Empty",
+      "description": "AI chatbot prototype - Empty"
+    },
+    {
+      "course_id": "final_scenario",
+      "title": "Chatbot prototype - Final",
+      "description": "AI chatbot prototype - Final"
     }
   ]
 }
