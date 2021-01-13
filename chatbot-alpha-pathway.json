@@ -3,10 +3,9 @@
   "description": "Chatbot Alpha",
   "courses": [
     {
-      "title": "Test",
-      "description": "test",
-      "pathway_id": "chatbot-alpha/test_scenario",
-      "course_id": "Tes"
+      "course_id": "test_scenario",
+      "title": "Chatbot prototype",
+      "description": "AI chatbot prototype"
     }
   ]
 }
