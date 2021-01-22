@@ -4,7 +4,7 @@
 
 <pre>You can see an empty .JSON on the right of this screen. Its inside the nobel_chatbot, under intents.json. Just double click it to bring it up.</pre>
 
-<pre>After you are done copying over the contents, CTRL + S to save your file, andddd you are rady to train your very own chatbot!</pre>
+<pre>After you are done copying over the contents, you are ready to train your very own chatbot!</pre>
 
 <pre>You can train it by clicking the text below</pre>
 
