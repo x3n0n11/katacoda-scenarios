@@ -6,18 +6,18 @@
 
 `cd .. `{{execute}}
 
-`tar -czvf chatbot.tar.gz katacoda_chatbot`{{execute}}
+`tar -czvf chatbot.tar.gz nobel_chatbot`{{execute}}
 
 <pre>Use this command to open another terminal (we'll need it in just a little bit)</pre>
 
 `echo "Run in T2"`{{execute T2}}
-<pre>`echo "Run in T2"`{{execute T2}}</pre>
+<!-- <pre>`echo "Run in T2"`{{execute T2}}</pre> -->
 
 <pre>You can switch between the terminals by clicking on either of the tabs, as shown in the picture. </pre>
 
-<pre>
+<!-- <pre>
 ![Terminals ](./assets/terminals.png)
-</pre>
+</pre> -->
 
 ![Terminals ](./assets/terminals.png)
 
